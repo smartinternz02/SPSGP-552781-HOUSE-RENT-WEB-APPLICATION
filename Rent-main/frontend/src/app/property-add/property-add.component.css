@@ -1,9 +1,0 @@
-button[type="submit"] {
-    background-color:aqua;
-    color: black;
-    padding: 10px 20px;
-  }
-  
-  button[type="submit"]:hover {
-    background-color:yellow;
-  }
